@@ -2,7 +2,6 @@
 layout: post
 title:  "First post"
 date:   2017-05-27 22:46:50 -0400
-categories: jekyll update
 ---
 
 Alright. Messed around enough today, trying to get all of this working _just_ as I wanted.  Think it's finally there.
