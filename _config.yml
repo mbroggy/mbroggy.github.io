@@ -24,12 +24,3 @@ paginate:  5
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-
-footer-links:
-  email: mbroggy@gmail.com
-  facebook: mbroggy
-  github: mbroggy
-  linkedin: mbroggy
-  rss: 1 # just type anything here for a working RSS icon
-  twitter: simparri
-  googleplus: u/0/+MichaelBroggy # anything in your profile username that comes after plus.google.com/
