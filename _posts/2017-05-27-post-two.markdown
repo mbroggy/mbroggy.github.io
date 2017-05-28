@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post (that's not default content)"
+title:  "First post"
 date:   2017-05-27 22:46:50 -0400
 categories: jekyll update
 ---
