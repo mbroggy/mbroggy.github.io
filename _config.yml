@@ -1,16 +1,5 @@
 ---
-title:               ~mbroggy
-tagline:             'Michael Broggy's project site
 description:         'Michael Broggy's project site for working on non-SCA projects; updated as and when I remember...
 url:                 https://mbroggy.github.io/
 baseurl:             ''
 paginate:            5
-
-# About/contact
-author:
-  name:              Michael Broggy
-  url:               https://twitter.com/simparri
-  email:             mbroggy@gmail.com
-
-# Custom vars
-version:             1.0.0
