@@ -1,5 +1,14 @@
----
-description:         'Michael Broggy's project site for working on non-SCA projects; updated as and when I remember...
-url:                 https://mbroggy.github.io/
-baseurl:             ''
-paginate:            5
+# Site settings
+
+title: ~mbroggy
+email: mbroggy@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Michael Broggy's non-SCA project site; updated as and when I remember ;)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://mbroggy.github.io/" # the base hostname & protocol for your site
+twitter_username: simparri
+github_username:  mbroggy
+
+# Build settings
+
+markdown: kramdown
