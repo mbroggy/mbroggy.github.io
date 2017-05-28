@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Second post"
-date:   2017-05-27 13:22:50 -0400
+title:  "First post (that's not default content)"
+date:   2017-05-27 22:46:50 -0400
 categories: jekyll update
 ---
 
-# Test page :)
+Alright. Messed around enough today, trying to get all of this working _just_ as I wanted.  Think it's finally there.
+
+I'm leaving the default posts in place as links to what's gone into this - Jekyll, Lanyon/Poole, etc.
+
+Tomorrow, -we ride- I start smashing into Ruby.
