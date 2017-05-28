@@ -12,5 +12,24 @@ github_username:  mbroggy
 
 permalink: date
 markdown:  kramdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 paginate:  5
-gems: [jekyll-paginate]
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+footer-links:
+  email: mbroggy@gmail.com
+  facebook: mbroggy
+  github: mbroggy
+  linkedin: mbroggy
+  rss: 1 # just type anything here for a working RSS icon
+  twitter: simparri
+  googleplus: u/0/+MichaelBroggy # anything in your profile username that comes after plus.google.com/
