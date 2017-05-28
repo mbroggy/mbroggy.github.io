@@ -10,5 +10,6 @@ github_username:  mbroggy
 
 # Build settings
 
-markdown: kramdown
-paginate: 5
+permalink: blog/:year/:month/:day/:title/
+markdown:  kramdown
+paginate:  5
