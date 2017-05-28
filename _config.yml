@@ -12,3 +12,4 @@ github_username:  mbroggy
 # Build settings
 
 markdown: kramdown
+paginate: 5
